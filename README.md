@@ -6,7 +6,7 @@ My work spans generative AI, agentic systems, retrieval, and applied machine lea
 
 ## Selected Projects
 
-### [OfferFlow ↗](https://offerflow.yvoone.com)
+### [OfferFlow ↗](https://offerflow.yvoone.com) [tmp close for public access]
 
 An evidence-grounded interview preparation workspace that connects a candidate's experience to a specific role, then turns that foundation into a repeatable practice loop.
 
@@ -37,6 +37,8 @@ An AI-assisted, mobile-first PWA for daily reflection, personal goals, and looki
 A VS Code toolkit for Claude Code with real-time usage and cost tracking, a multi-account pool with threshold-based switching, and scheduled usage-window warm-ups.
 
 `Developer tooling` · `VS Code extension` · `800+ installs`
+
+## A few other projects are working in progress
 
 ## Areas I Work In
 
