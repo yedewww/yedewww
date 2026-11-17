@@ -2,17 +2,17 @@
 
 Senior Data Scientist building AI systems and products.
 
-My work spans generative AI, agentic systems, retrieval, and applied machine learning. Outside work, I turn ideas into usable products and developer tools.
+My work spans generative AI, agentic systems, retrieval, and applied machine learning. Outside work, I turn ideas into usable products and developer tools. Most of my personal projects are public accessible, so feel free to open the link to play around. Screenshots may be outdated here as some of them are actively under development.
 
 ## Selected Projects
 
-### [OfferFlow ↗](https://offerflow.yvoone.com) [tmp close for public access]
+### [InFlow ↗](https://inflow.yvoone.com)
 
-An evidence-grounded interview preparation workspace that connects a candidate's experience to a specific role, then turns that foundation into a repeatable practice loop.
+An AI-assisted, mobile-first PWA for daily reflection, personal goals, and looking back over time.
 
-`Generative AI` · `Evidence-grounded workflows` · `Interview practice`
+`Applied AI` · `Mobile-first PWA` · `Local-first data`
 
-[![OfferFlow public landing page](assets/offerflow.jpg)](https://offerflow.yvoone.com)
+[![InFlow home screen rendered at the iPhone 17 viewport with sample journal data](assets/inflow-iphone17.jpg)](https://inflow.yvoone.com)
 
 ### [Guandan ↗](https://guandan.yvoone.com)
 
@@ -22,13 +22,13 @@ Online multiplayer Guandan with an AI opponent trained through reinforcement lea
 
 [![Guandan single-player table with AI opponents](assets/guandan.jpg)](https://guandan.yvoone.com)
 
-### [InFlow ↗](https://inflow.yvoone.com)
+### [OfferFlow ↗](https://offerflow.yvoone.com) [tmp close for public register]
 
-An AI-assisted, mobile-first PWA for daily reflection, personal goals, and looking back over time.
+An evidence-grounded interview preparation workspace that connects a candidate's experience to a specific role, then turns that foundation into a repeatable practice loop.
 
-`Applied AI` · `Mobile-first PWA` · `Local-first data`
+`Generative AI` · `Evidence-grounded workflows` · `Interview practice`
 
-[![InFlow home screen rendered at the iPhone 17 viewport with sample journal data](assets/inflow-iphone17.jpg)](https://inflow.yvoone.com)
+[![OfferFlow public landing page](assets/offerflow.jpg)](https://offerflow.yvoone.com)
 
 ## Developer Tool
 
